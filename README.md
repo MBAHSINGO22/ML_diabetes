@@ -44,9 +44,8 @@ Dataset yang digunakan berasal dari **Pima Indians Diabetes Dataset**, sering di
 
 ```
 ML_diabetes/
-├── dataset/
-│   └── diabetes.csv
-└──  diabetes_analysis.ipynb
+├── diabetes.csv
+└──  TUGAS_235314099.ipynb
 ```
 
 ---
